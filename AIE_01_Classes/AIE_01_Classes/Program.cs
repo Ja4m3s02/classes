@@ -27,7 +27,7 @@ namespace AIE_01_Classes
             public float height;
 
             // lets create a Person instance
-            Person James = new Person();
+            Person james = new Person();
             James.name = "James";
             James.age = 8;
             James.height = 140;

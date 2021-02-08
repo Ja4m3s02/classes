@@ -7,6 +7,17 @@ namespace AIE_01_Classes
     {
         static void Main(string[] args)
         {
+
+            Person james = new Person();
+            james.name = "James";
+            james.age = 8;
+            james.height = 140;
+
+            Person jarred = new Person();
+            jarred.name = "jarred";
+            jarred.age = 8;
+            jarred.height = 140;
+
             GameSettings gs = new GameSettings(800, 450, "hello raylib");
             
             Raylib.InitWindow(gs.windowWidth, gs.windowLength, gs.windowTitle);
@@ -25,16 +36,13 @@ namespace AIE_01_Classes
             public string name = "James";
             public int age;
             public float height;
-
-            // lets create a Person instance
-            Person james = new Person();
-            James.name = "James";
-            James.age = 8;
-            James.height = 140;
-
-
-
         }
+
+            
+
+
+
+        
  
 
 

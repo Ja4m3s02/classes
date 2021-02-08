@@ -1,0 +1,4 @@
+C:\Users\s210209\Desktop\aie\classes\AIE_01_Classes\AIE_01_Classes\bin\Debug\netcoreapp3.1\AIE_01_Classes.exe
+C:\Users\s210209\Desktop\aie\classes\AIE_01_Classes\AIE_01_Classes\obj\Debug\netcoreapp3.1\AIE_01_Classes.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\classes\AIE_01_Classes\AIE_01_Classes\obj\Debug\netcoreapp3.1\AIE_01_Classes.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\classes\AIE_01_Classes\AIE_01_Classes\obj\Debug\netcoreapp3.1\AIE_01_Classes.AssemblyInfo.cs

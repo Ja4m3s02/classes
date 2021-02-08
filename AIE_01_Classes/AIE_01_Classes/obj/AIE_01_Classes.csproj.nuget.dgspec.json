@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210209\\Desktop\\aie\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj": {}
+    "C:\\Users\\s210209\\Desktop\\aie\\Week 2\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210209\\Desktop\\aie\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj": {
+    "C:\\Users\\s210209\\Desktop\\aie\\Week 2\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210209\\Desktop\\aie\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj",
+        "projectUniqueName": "C:\\Users\\s210209\\Desktop\\aie\\Week 2\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj",
         "projectName": "AIE_01_Classes",
-        "projectPath": "C:\\Users\\s210209\\Desktop\\aie\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj",
+        "projectPath": "C:\\Users\\s210209\\Desktop\\aie\\Week 2\\classes\\AIE_01_Classes\\AIE_01_Classes\\AIE_01_Classes.csproj",
         "packagesPath": "C:\\Users\\s210209\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210209\\Desktop\\aie\\classes\\AIE_01_Classes\\AIE_01_Classes\\obj\\",
+        "outputPath": "C:\\Users\\s210209\\Desktop\\aie\\Week 2\\classes\\AIE_01_Classes\\AIE_01_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210209\\AppData\\Roaming\\NuGet\\NuGet.Config",

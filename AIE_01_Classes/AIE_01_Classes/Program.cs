@@ -9,12 +9,12 @@ namespace AIE_01_Classes
         {
             GameSettings gs = new GameSettings(800, 450, "hello raylib");
             
-            Raylib.InitWindow(gs.windowWidth, gs.windowHeight, gs.windowTitle);
+            Raylib.InitWindow(gs.windowWidth, gs.windowLength, gs.windowTitle);
 
-            while(Raylib.WindowsShouldClose())
+            while(Raylib.WindowShouldClose())
             {
                 Raylib.BeginDrawing();
-                Raylib.ClearBackground(ConsoleColor.RAYWHITE);
+                Raylib.ClearBackground(ConsoleColor.WHITE);
                 Raylib.EndDrawing();
             }
             Raylib.CloseWindow();
@@ -25,13 +25,19 @@ namespace AIE_01_Classes
             public string name = "James";
             public int age;
             public float height;
-        }
 
             // lets create a Person instance
             Person James = new Person();
             James.name = "James";
             James.age = 8;
             James.height = 140;
+
+
+
+        }
+ 
+
+
 
         
     }
